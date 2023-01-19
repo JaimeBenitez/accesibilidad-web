@@ -7,7 +7,7 @@
     background: #E8F8F5;
 }
 .bg-verde-oscuro{
-    background: #48C9B0;
+    background: #1C5E50;
 }
 
 
@@ -15,17 +15,17 @@
     color: #E8F8F5;
 }
 .font-verde-oscuro{
-    color: #48C9B0;
+    color: #1C5E50;
 }
 a{
-    color: #48C9B0 ;
+    color: #1C5E50 ;
 }
 a:hover{
     color: #6c757d ;
 }
 
 h3{
-    color: #48C9B0 ;
+    color: #1C5E50;
 }
 
 main img{
@@ -186,7 +186,7 @@ main{
 .donar-cabecera h1,
 .detalle-cabecera  h1{
     color: #fff;
-    background: #48C9B0;
+    background: #1C5E50;
 }
 
 .detalle-cabecera  h2, .detalle-cabecera span{
@@ -267,7 +267,7 @@ footer.container-fluid{
     margin: 0 auto;
 }
 .creditos a{
-    color: #48C9B0 ;
+    color: #1C5E50;
 }
 .creditos a:hover{
     color: #007bff ;
