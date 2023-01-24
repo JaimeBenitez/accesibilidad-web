@@ -60,19 +60,21 @@
                     </p>
                     <form>
                         <h2>Cantidad del donativo (EUR)</h2>
-
+                        <fieldset>
+                        <legend>Número de veces</legend>
                         <div class="form-check-inline">
-                            <input class="form-check-input" type="radio" name="unaVez" id="unaVez" value="option1" checked>
+                            <input class="form-check-input" type="radio" name="veces" id="unaVez" value="option1" checked>
                             <label class="form-check-label" for="unaVez">
                                 Una única vez
                             </label>
                         </div>
                         <div class="form-check-inline">
-                            <input class="form-check-input" type="radio" name="mensual" id="mensual" value="option2">
+                            <input class="form-check-input" type="radio" name="veces" id="mensual" value="option2">
                             <label class="form-check-label" for="mensual">
                                 Mensual
                             </label>
                         </div>
+                        </fieldset>
                         <div class="form-group">
                             <label for="exampleFormControlSelect2">Importe</label>
                             <select multiple class="form-control" id="exampleFormControlSelect2">
@@ -86,8 +88,8 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="password">Otra cantidad</label>
-                            <input id="password" type="password" class="form-control" placeholder="Escriba otro importe">
+                            <label for="other">Otra cantidad</label>
+                            <input id="other" type="number" class="form-control" placeholder="Escriba otro importe">
                         </div>
                         <hr>
                         <h3>Datos de facturación</h3>
