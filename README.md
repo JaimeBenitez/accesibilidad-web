@@ -1,7 +1,7 @@
 ﻿
-# Hola!👋 Soy Alejandro 🧑‍💻,
+# Hola!👋 Soy Jaime 🐧💻,
 
-Este proyecto pertenece a la práctica de Accesibilidad Web.
+El presente proyecto es una práctica en la que exploraremos la accesibilidad de una web y veremos como podemos mejorarla :suspect:
 
 ## Módulo Diseño de Interfaces Web 🎨 
 
